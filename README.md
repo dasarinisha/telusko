@@ -1,2 +1,6 @@
 # telusko
+
 niha
+
+pasta
+
